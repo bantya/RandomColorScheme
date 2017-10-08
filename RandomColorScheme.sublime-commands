@@ -1,0 +1,7 @@
+[
+  {
+        "caption": "Random Color Scheme",
+        "command": "random_color_scheme",
+        // "args": {"random": true}
+    }
+]
