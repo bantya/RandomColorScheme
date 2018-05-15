@@ -1,0 +1,7 @@
+{
+    // Do not include color-schemes from following packages.
+    "do_not_include_packages": [],
+
+    // Do not include color-schemes which contain following names.
+    "do_not_include_filenames": [],
+}
